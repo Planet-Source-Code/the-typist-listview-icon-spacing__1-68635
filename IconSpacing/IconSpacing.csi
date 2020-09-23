@@ -1,0 +1,19 @@
+[History]
+1=#P0#=mb	#P1#=Form_Load	#P2#=IconSpacing/frmMain/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20070520125357	#P7#=0	#P8#=-20	.
+2=#P0#=mb	#P1#=SetThumbnailSpace	#P2#=IconSpacing/frmMain/SetThumbnailSpace	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070520094833	#P7#=0	#P8#=-15	.
+3=#P0#=mb	#P1#=SetThumbnailSpace	#P2#=IconSpacing/modListview/SetThumbnailSpace	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070520130538	#P7#=0	#P8#=14	.
+4=#P0#=mb	#P1#=PrintPixelLabels	#P2#=IconSpacing/frmMain/PrintPixelLabels	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070520095111	#P7#=0	#P8#=0	.
+5=#P0#=mb	#P1#=PrintTwipsLabels	#P2#=IconSpacing/frmMain/PrintTwipsLabels	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070520095116	#P7#=0	#P8#=0	.
+6=#P0#=mb	#P1#=EnableDisableControls	#P2#=IconSpacing/frmMain/EnableDisableControls	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070520095120	#P7#=0	#P8#=0	.
+7=#P0#=mb	#P1#=cboArrMode_Click	#P2#=IconSpacing/frmMain/cboArrMode_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20070520100702	#P7#=0	#P8#=31	.
+8=#P0#=mb	#P1#=chkReset_Click	#P2#=IconSpacing/frmMain/chkReset_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20070520100431	#P7#=0	#P8#=8	.
+9=#P0#=mb	#P1#=sldX_Scroll	#P2#=IconSpacing/frmMain/sldX_Scroll	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20070520130435	#P7#=0	#P8#=1	.
+10=#P0#=mb	#P1#=sldY_Scroll	#P2#=IconSpacing/frmMain/sldY_Scroll	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20070520101309	#P7#=0	#P8#=-1	.
+11=#P0#=mb	#P1#=pvPrintTwipsLabels	#P2#=IconSpacing/frmMain/pvPrintTwipsLabels	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070520101225	#P7#=0	#P8#=3	.
+12=#P0#=mb	#P1#=pvPrintPixelLabels	#P2#=IconSpacing/frmMain/pvPrintPixelLabels	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070520101219	#P7#=0	#P8#=17	.
+13=#P0#=mb	#P1#=pvEnableDisableControls	#P2#=IconSpacing/frmMain/pvEnableDisableControls	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070520100332	#P7#=0	#P8#=3	.
+14=#P0#=mb	#P1#=LOWORD1	#P2#=IconSpacing/modListview/LOWORD1	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070520095956	#P7#=0	#P8#=0	.
+15=#P0#=mb	#P1#=LOWORD	#P2#=IconSpacing/modListview/LOWORD	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070520101032	#P7#=0	#P8#=-11	.
+16=#P0#=mb	#P1#=HIWORD1	#P2#=IconSpacing/modListview/HIWORD1	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070520095959	#P7#=0	#P8#=0	.
+17=#P0#=mb	#P1#=HIWORD	#P2#=IconSpacing/modListview/HIWORD	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070520101025	#P7#=0	#P8#=-5	.
+18=#P0#=mb	#P1#=MakeLong	#P2#=IconSpacing/modListview/MakeLong	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20070520124931	#P7#=0	#P8#=-2	.
